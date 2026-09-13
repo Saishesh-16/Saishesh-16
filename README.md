@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saishesh-16&color=6366f1&style=flat-square&label=Profile+Views)
+
 
 </div>
 
