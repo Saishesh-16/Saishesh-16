@@ -243,7 +243,6 @@ Python  ──►  Advanced Python  ──►  ML & CV  ──►  GenAI & LLMs
 | 💼 LinkedIn | [saishesh-kesari-13915a293](https://www.linkedin.com/in/saishesh-kesari-13915a293/) |
 | 📧 Email | [ksaishesh@gmail.com](mailto:ksaishesh@gmail.com) |
 | 🐙 GitHub | [Saishesh-16](https://github.com/Saishesh-16) |
-| 🌐 Portfolio | `<!-- Add your portfolio URL here -->` |
 
 </div>
 
